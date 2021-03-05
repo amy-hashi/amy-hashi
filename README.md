@@ -1,5 +1,7 @@
 <!-- [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=amy-hashi)](https://github.com/amy-hashi/github-contribution-stats/) -->
+## GitHub Statistics
 
+![Amy Browns's GitHub statistics.](https://github-readme-stats.vercel.app/api?username=amy-hashi&show_icons=true&theme=gruvbox)
 <!--
 **amy-hashi/amy-hashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
